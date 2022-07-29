@@ -17,7 +17,7 @@
     <br>
 
     <label for="psw"><b>THIS IS A BIGGER CHANGE, TRUST ME</b></label>
-    <input type="password" placeholder="THIS IS A BIGGER CHANGE, TRUST ME" name="psw" id="psw" required>
+    <input type="password" placeholder="THISOMEE, TRUST ME" name="psw" id="psw" required>
     <br>
 
     <label for="psw-repeat"><b>THIS IS A BIGGER CHANGE, TRUST ME</b></label>
