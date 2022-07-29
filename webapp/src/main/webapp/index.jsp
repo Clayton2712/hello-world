@@ -9,7 +9,7 @@
     <br>
     
     <label for="mobile"><b>THIS IS A BIGGER CHANGE, TRUST ME</b></label>
-    <input type="text" placeholder="THIS IS A BIGGER CHANGE, TRUST ME" name="mobile" id="mobile" required>
+    <input type="text" placeholder="THIS IS A BIGGERE, TRUST ME" name="mobile" id="mobile" required>
     <br>
 
     <label for="email"><b>THIS IS A BIGGER CHANGE, TRUST ME</b></label>
