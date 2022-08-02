@@ -25,13 +25,13 @@
     <hr>
     <br>
     <p>By THIS IS A BIGGER CHANGE, TRUST ME</a>.</p>
-    <button type="submit" class="registygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygterbtn">THIS IS A BIGGER CHANGE, TRUST ME</button>
+    <button type="submit" class="regist">THIS IS A BIGGER CHANGE, TRUST ME</button>
   </div>
   <div class="container signin">
     <p>THIS IS A BIGGER CHANGE, TRUST ME? <a href="#">THIS IS A BIGGER CHANGE, TRUST ME!</a>.</p>
   </div>
 
-   <h1> THIS IS A BIGGER CHANGE, TRUST ME, THIS IS A BIGGER CHANGE, TRUST ME! </h1>
+   <h1> The pipeline is broken</h1>
 
   
 </form>
