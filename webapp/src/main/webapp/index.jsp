@@ -9,7 +9,7 @@
     <br>
     
     <label for="mobile"><b>THIS IS A BIGGER CHANGE, TRUST ME</b></label>
-    <input type="text" placeholder="THIS IS A BIGGERE, TRUST ME" name="mobile" id="mobile" required>
+    <input type="text" placeholder="THIS IS A BIGGER, TRUST ME" name="mobile" id="mobile" required>
     <br>
 
     <label for="email"><b>THIS IS A BIGGER CHANGE, TRUST ME</b></label>
@@ -17,15 +17,15 @@
     <br>
 
     <label for="psw"><b>THIS IS A BIGGER CHANGE, TRUST ME</b></label>
-    <input type="password" placeholder="THISOMEE, TRUST ME" name="psw" id="psw" required>
+    <input type="password" placeholder="Hi BasilE" name="psw" id="psw" required>
     <br>
 
     <label for="psw-repeat"><b>THIS IS A BIGGER CHANGE, TRUST ME</b></label>
-    <input type="password" placeholder="THIS IS A BIGGER CHANGE, TRUST ME" name="psw-repeat" id="psw-repeat" required>
+    <input type="password" placeholder="THGE, TRUST ME" name="psw-repeat" id="psw-repeat" required>
     <hr>
     <br>
     <p>By THIS IS A BIGGER CHANGE, TRUST ME</a>.</p>
-    <button type="submit" class="registerbtn">THIS IS A BIGGER CHANGE, TRUST ME</button>
+    <button type="submit" class="registygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygtygterbtn">THIS IS A BIGGER CHANGE, TRUST ME</button>
   </div>
   <div class="container signin">
     <p>THIS IS A BIGGER CHANGE, TRUST ME? <a href="#">THIS IS A BIGGER CHANGE, TRUST ME!</a>.</p>
