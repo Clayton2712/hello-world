@@ -31,7 +31,8 @@
     <p>THIS IS A BIGGER CHANGE, TRUST ME? <a href="#">THIS IS A BIGGER CHANGE, TRUST ME!</a>.</p>
   </div>
 
-   <h1>NEW CHANGE (*-*)/h1>
+   <h1>NEW CHANGE (*-*)</h1>
+   <h1>NEW CHANGE (*-*) 11:58</h1>
 
   
 </form>
